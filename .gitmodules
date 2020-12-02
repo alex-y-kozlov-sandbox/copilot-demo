@@ -6,4 +6,4 @@
 	url = https://github.com/appernetic/hugo-nederburg-theme.git
 [submodule "themes/forty"]
 	path = themes/forty
-	url = https://github.com/MarcusVirg/forty.git
+	url = https://github.com/MarcusVirg/forty
