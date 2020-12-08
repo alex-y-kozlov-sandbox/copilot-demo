@@ -6,6 +6,9 @@ tasks:
   - command: hugo server --baseUrl $(gp url 1313) --appendPort=false
     name: Hugo
     openMode: tab-before
+  - command: sudo docker-up
+    name: Docker daemon
+    openMode: tab-before
 
 ports:
   - port: 1313
